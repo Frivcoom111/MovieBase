@@ -107,11 +107,11 @@ $filmes = [
     ],
     [
         "id" => 14,
-        "titulo" => "The Lion King",
-        "ano" => 1994,
+        "titulo" => " khumba",
+        "ano" => 2013,
         "genero" => "Animação",
-        "diretor" => "Roger Allers",
-        "nota" => 8.5
+        "diretor" => "Anthony Silverston",
+        "nota" => 3
     ],
     [
         "id" => 15,
@@ -160,5 +160,13 @@ $filmes = [
         "genero" => "Western",
         "diretor" => "Quentin Tarantino",
         "nota" => 8.4
+    ],
+       [
+        "id" => 21,
+        "titulo" => " victor frankenstein",
+        "ano" => 2015,
+        "genero" => "terror",
+        "diretor" => "Paul McGuigan",
+        "nota" => 6
     ],
 ];
